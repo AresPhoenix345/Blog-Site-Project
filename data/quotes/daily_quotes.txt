@@ -276,3 +276,4 @@
 [2025-11-06 02:16:19] The best way to predict the future is to implement it. - Alan Kay
 [2025-11-06 02:41:57] The best way to predict the future is to implement it. - Alan Kay
 [2025-11-06 08:53:33] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-07 10:44:15] Make it work, make it right, make it fast. - Kent Beck
