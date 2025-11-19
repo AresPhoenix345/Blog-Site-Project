@@ -336,3 +336,4 @@
 [2025-11-19 03:53:31] It's not a bug – it's an undocumented feature. - Anonymous
 [2025-11-19 08:53:46] Make it work, make it right, make it fast. - Kent Beck
 [2025-11-19 14:54:21] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-19 18:43:24] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
