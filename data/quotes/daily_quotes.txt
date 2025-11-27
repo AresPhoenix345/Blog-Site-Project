@@ -376,3 +376,4 @@
 [2025-11-26 18:39:58] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-11-26 20:46:15] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2025-11-27 02:14:08] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-27 03:53:28] Code is like humor. When you have to explain it, it's bad. - Cory House
