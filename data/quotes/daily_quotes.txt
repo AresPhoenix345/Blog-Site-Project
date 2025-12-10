@@ -431,3 +431,4 @@
 [2025-12-09 18:43:44] Make it work, make it right, make it fast. - Kent Beck
 [2025-12-10 08:56:39] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-12-10 13:06:08] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-10 16:52:59] The best error message is the one that never shows up. - Thomas Fuchs
