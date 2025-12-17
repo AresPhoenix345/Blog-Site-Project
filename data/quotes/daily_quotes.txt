@@ -466,3 +466,4 @@
 [2025-12-17 02:19:13] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-12-17 02:47:31] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2025-12-17 18:48:27] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-17 20:51:41] Make it work, make it right, make it fast. - Kent Beck
