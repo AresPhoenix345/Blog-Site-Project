@@ -500,3 +500,4 @@
 [2025-12-23 04:09:58] The best way to predict the future is to implement it. - Alan Kay
 [2025-12-23 08:57:24] Code is like humor. When you have to explain it, it's bad. - Cory House
 [2025-12-23 22:39:57] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-24 02:22:22] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
