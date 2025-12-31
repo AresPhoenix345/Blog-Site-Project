@@ -534,3 +534,4 @@
 [2025-12-30 16:52:23] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-12-30 20:50:46] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-12-31 02:25:20] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-31 10:46:20] It's not a bug – it's an undocumented feature. - Anonymous
