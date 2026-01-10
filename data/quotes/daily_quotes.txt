@@ -575,3 +575,4 @@
 [2026-01-09 14:57:05] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-01-10 02:23:33] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-01-10 13:00:02] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-10 14:51:46] It's not a bug – it's an undocumented feature. - Anonymous
