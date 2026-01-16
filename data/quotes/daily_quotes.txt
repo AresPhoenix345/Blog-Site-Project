@@ -600,3 +600,4 @@
 [2026-01-16 10:49:44] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-01-16 13:06:45] The best way to predict the future is to implement it. - Alan Kay
 [2026-01-16 16:54:48] Good code is its own best documentation. - Steve McConnell
+[2026-01-16 20:50:03] It's not a bug – it's an undocumented feature. - Anonymous
