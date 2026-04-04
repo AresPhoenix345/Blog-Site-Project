@@ -973,3 +973,4 @@
 [2026-04-04 07:16:28] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-04-04 13:28:40] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-04-04 17:01:43] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-04 19:00:41] Make it work, make it right, make it fast. - Kent Beck
