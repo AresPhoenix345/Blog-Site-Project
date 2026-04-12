@@ -1014,3 +1014,4 @@
 [2026-04-12 07:43:15] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-04-12 09:28:45] Make it work, make it right, make it fast. - Kent Beck
 [2026-04-12 17:05:05] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-12 22:59:18] It's not a bug – it's an undocumented feature. - Anonymous
