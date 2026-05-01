@@ -1103,3 +1103,4 @@
 [2026-04-30 17:51:01] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-05-01 10:09:15] Code is like humor. When you have to explain it, it's bad. - Cory House
 [2026-05-01 11:38:25] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-01 17:32:39] It's not a bug – it's an undocumented feature. - Anonymous
