@@ -1129,3 +1129,4 @@
 [2026-05-06 14:46:22] The best way to predict the future is to implement it. - Alan Kay
 [2026-05-06 17:59:49] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2026-05-06 19:59:56] Good code is its own best documentation. - Steve McConnell
+[2026-05-06 21:42:46] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
