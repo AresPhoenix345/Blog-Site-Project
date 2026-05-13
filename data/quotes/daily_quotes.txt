@@ -1162,3 +1162,4 @@
 [2026-05-12 20:06:47] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-05-12 21:52:50] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-05-12 23:32:25] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-05-13 04:40:59] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
