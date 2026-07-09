@@ -1444,3 +1444,4 @@
 [2026-07-09 11:30:40] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-07-09 15:33:03] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-07-09 17:06:42] The only constant in the technology industry is change. - Marc Benioff
+[2026-07-09 20:02:54] Make it work, make it right, make it fast. - Kent Beck
