@@ -1824,3 +1824,4 @@
 [2026-09-27 23:22:51] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-09-28 05:24:25] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-09-28 10:00:11] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-09-28 18:13:21] Code is like humor. When you have to explain it, it's bad. - Cory House
