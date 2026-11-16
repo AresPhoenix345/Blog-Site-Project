@@ -2059,3 +2059,4 @@
 [2026-11-16 11:49:20] First, solve the problem. Then, write the code. - John Johnson
 [2026-11-16 15:41:22] First, solve the problem. Then, write the code. - John Johnson
 [2026-11-16 18:52:58] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-11-16 20:37:31] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
